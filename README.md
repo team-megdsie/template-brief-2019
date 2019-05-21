@@ -19,3 +19,6 @@ This describes the requirements for a simple, basic HTML template with a minimal
 1. *Header and footer;* header will have room for a centered square logo, and a navigation bar for up to three (3) items. The three items should be on one line for the desktop and tablet sizes, and can be on three lines for mobile. Footer will have its own font sizes and colours, but be otherwise as simple as possible, and its content will be left-aligned, like the main content area. Both header and footer will adhere to the same maximum width as the main content area.
 
 1. *No inline CSS, or Javascript;* template will be used on systems with a strict [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP), and must not contain any inline CSS or Javascript. 
+
+
+HELLO!
